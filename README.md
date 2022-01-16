@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcame.
     
-### Olá, Sou OsvaldoNeto, Bem-vindo aqui em nosso espaço 👋
+### Olá, aqui é o Osvaldo, Bem-vindo aqui em nosso espaço 👋
 <div align="center">
   <a href= "https://www.linkedin.com/in/osvaldo-carvalho-157ba0207/"
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldoMneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 - 🌱 Estou em constante aprendizado  
 - 👯 Procuro colaborar com todos que desejam conhecer  mais sobre tecnologias e curtem trocar informações. 
 - 🤔 Estou em busca de conhecer mais projetos modernos e inovadores.
-- 📫 How to reach me: osvaldocarvalhont@gmail.com or https://www.linkedin.com/in/osvaldo-carvalho-157ba0207/
+- 📫 Você pode entrar em contato comigo em : osvaldocarvalhont@gmail.com or https://www.linkedin.com/in/osvaldo-carvalho-157ba0207/
 
 
 - 🔭 I’m currently working on Full Stack
@@ -33,5 +33,7 @@
 
 </div>
 
+
+![Snake animation](https://github.com/osvaldoMneto/osvaldoMneto/blob/output/github-contribution-grid-snake.svg)
 
 
