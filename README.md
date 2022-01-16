@@ -33,7 +33,8 @@
 
 </div>
 
-
+<div>
 ![Snake animation](https://github.com/osvaldoMneto/osvaldoMneto/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
