@@ -2,8 +2,8 @@
     
 ### Olá, aqui é o Osvaldo, Bem-vindo aqui em nosso espaço 👋
 <div align="center">
-  <a href= "https://www.linkedin.com/in/osvaldo-carvalho-157ba0207/"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldoMneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href= "https://www.linkedin.com/in/osvaldo-carvalho-157ba0207/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldoMneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoMneto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
